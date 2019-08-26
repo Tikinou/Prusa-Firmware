@@ -429,7 +429,7 @@ THERMISTORS SETTINGS
 #define NC_TIME 10 //time in s for periodic important status messages sending which needs reponse from monitoring
 #define NC_BUTTON_LONG_PRESS 15 //time in s
 
-#define LONG_PRESS_TIME 1000 //time in ms for button long press
+#define LONG_PRESS_TIME 1000 //time in ms for button long press 
 #define BUTTON_BLANKING_TIME 200 //time in ms for blanking after button release
 
 #define DEFAULT_PID_TEMP 210

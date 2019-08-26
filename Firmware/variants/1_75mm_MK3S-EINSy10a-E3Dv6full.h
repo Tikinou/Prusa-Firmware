@@ -617,7 +617,7 @@
 //#define UVLO_Z_AXIS_SHIFT 1.92
 #define UVLO_Z_AXIS_SHIFT 0.64
 // If power panic occured, and the current temperature is higher then target temperature before interrupt minus this offset, print will be recovered automatically.
-#define AUTOMATIC_UVLO_BED_TEMP_OFFSET 5
+#define AUTOMATIC_UVLO_BED_TEMP_OFFSET 5 
 
 #define HEATBED_V2
 
